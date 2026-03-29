@@ -1,0 +1,18 @@
+{
+  "features": [
+    "crop_id",
+    "state_id",
+    "month",
+    "rainfall",
+    "temperature"
+  ],
+  "model_type": "RandomForestRegressor",
+  "n_estimators": 100,
+  "feature_importances": [
+    0.7879061597267436,
+    0.03377110035866428,
+    0.05243184597146879,
+    0.05291238355889432,
+    0.07297851038422892
+  ]
+}
