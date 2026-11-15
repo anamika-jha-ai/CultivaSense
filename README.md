@@ -160,7 +160,7 @@ CultivaSense provides recommendations for **22 major Indian crops**:
 - 📈 Increase crop yield efficiency
 - 🌾 Support biodiversity in agricultural systems
 
-## 📱 Mobile Responsiveness
+##  Mobile Responsiveness
 
 CultivaSense is designed with a **mobile-first approach**:
 
